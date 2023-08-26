@@ -1,0 +1,136 @@
+{
+    "main":{
+        "name":"Fahrel Ardzaky Eriyanputra",
+        "deskripsi":"saya siap dan kompeten dalam pengembangan software",
+        "github":"https://github.com/aruzakii",
+        "project":"https://github.com/aruzakii",
+        "linkedin":"https://www.linkedin.com/in/fahrel-ardzaky-eriyanputra-2080b522b",
+        "bio":"saya merupakan seorang mahasiswa yang menekuni dunia pengembangan software dan ingin berpartisipasi dalam perkembangan teknologi di negara dan juga dunia",
+        "profilpic":"profilpic.JPEG",
+        "phone":"+628977552207",
+        "email":"fahrelardzaky@gmail.com",
+        "resumeDownload":"cv/Cv_Fahrel Ardzaky Eriyanputra_50421452.pdf",
+        "address":{
+            "street":"Jl.Timbul 4C No 12A",
+            "city":"Jakarta Selatan",
+            "state":"DKI Jakarta",
+            "zip":"12630"
+        },
+        "contactMassage":"Contact Me",
+        "social":[
+            {
+                "name":"Instagram",
+                "url":"https://instagram.com/fahrel_ardzaky?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+                "className":"fa fa-instagram"
+            },
+            {
+                "name":"LinkedIn",
+                "url":"https://www.linkedin.com/in/fahrel-ardzaky-eriyanputra-2080b522b",
+                "className":"fa fa-linkedin"
+            },
+            {
+                "name":"Github",
+                "url":"https://github.com/aruzakii",
+                "className":"fa fa-github"
+            }
+        ]
+    },
+    "resume":{
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school":"Universitas Gunadarma",
+                "degree":"Bachelor degree of Informatic",
+                "graduated":"2024"
+            },
+            {
+                "school":"SMAN 86 Jakarta",
+                "degree" : "Science",
+                "graduated" : "May 2021"
+            }
+        ],
+        "works":[
+            {
+                "company" :"PT. Nugraha Eka Sehjatera",
+                "title" : "IT Support",
+                "years":"Jan 2022 - Saat ini",
+                "description":"Maintenance"
+            },
+            {
+                "company" :"Salt & Onion Meals",
+                "title":"Software Engineer",
+                "years":"Juni 2022 - Saat ini",
+                "description":"Membuat sebuah website dan maintenance"
+            },
+            {
+                "company" :"Laboratorium Pengembangan Aplikasi & Pemograman Universitas Gunadarma",
+                "title":"Assisten Laboratorium",
+                "years":"Jan 2023 - Saat ini",
+                "description":"Maintenance dan mempersiapkan beberapa lab untuk keperluan tes masuk brimob polri dan ujikompetensi bnsp.Serta menjalankan program workshop dalam pengembangan aplikasi khususnya aplikasi berbasis web."
+            }
+        ],
+        "skills":[
+            {
+                "name" : "Java",
+                "level" : "70%"
+            },
+            {
+                "name" : "Html",
+                "level" : "90%"
+            },
+            {
+                "name" : "Css",
+                "level" : "80%"
+
+            },
+            {
+                "name":"Javascript",
+                "level":"75%"
+            },
+            {
+                "name":"Bootstrap",
+                "level":"70%"
+            },
+            {
+                "name":"ReactJS",
+                "level":"50%"
+            },
+            {
+                "name":"Php",
+                "level":"70%"
+            },
+            {
+                "name":"Laravel",
+                "level":"60%"
+            }
+        ]
+    },
+    "portofolio":{
+        "projects":[
+            {
+                "name":"Salt & Onion Meals",
+                "category":"Website penjualan makanan",
+                "image":"01.png",
+                "url":"https://saltandonionmeals.1ia01fahrelardz.repl.co"
+            },
+            {
+                "name":"JasaAkutansi.com",
+                "category":"Website jasa akutansi dan pajak",
+                "image":"02.png",
+                "url":"https://akutansi.1ia01fahrelardz.repl.co"
+            },
+            {
+                "name":"ArdBloggy",
+                "category":"Website Aplikasi Blog,user dapat login dan membuat postingannya masing-masing",
+                "image":"03.png",
+                "url":"https://github.com/aruzakii/ArdBloggyyWebApp"
+            },
+            {
+                "name":"ArdzakyBookshelf",
+                "category":"Website Menyimpan data buku menggunakan session dan cookie",
+                "image":"04.png",
+                "url":"https://ardzakybooshelf.1ia01fahrelardz.repl.co"
+            }
+        ]
+    }
+}
