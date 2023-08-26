@@ -6,7 +6,7 @@ class About extends React.Component{
         if(!this.props.data) return null
 
         const name = this.props.data.name;//ngambil data dari props --> json
-        const profilpic =this.props.data.profilpic;
+        const profilpic ="./images/" + this.props.data.profilpic;
         const bio = this.props.data.bio;
         const street = this.props.data.address.street;
         const city = this.props.data.address.city;
