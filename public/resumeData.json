@@ -110,25 +110,25 @@
             {
                 "name":"Salt & Onion Meals",
                 "category":"Website penjualan makanan",
-                "image":"01.png",
+                "image":"gambar1.png",
                 "url":"https://saltandonionmeals.1ia01fahrelardz.repl.co"
             },
             {
                 "name":"JasaAkutansi.com",
                 "category":"Website jasa akutansi dan pajak",
-                "image":"02.png",
+                "image":"gambar2.png",
                 "url":"https://akutansi.1ia01fahrelardz.repl.co"
             },
             {
                 "name":"ArdBloggy",
                 "category":"Website Aplikasi Blog,user dapat login dan membuat postingannya masing-masing",
-                "image":"03.png",
+                "image":"gambar3.png",
                 "url":"https://github.com/aruzakii/ArdBloggyyWebApp"
             },
             {
                 "name":"ArdzakyBookshelf",
                 "category":"Website Menyimpan data buku menggunakan session dan cookie",
-                "image":"04.png",
+                "image":"gambar4.png",
                 "url":"https://ardzakybooshelf.1ia01fahrelardz.repl.co"
             }
         ]
